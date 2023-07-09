@@ -1,2 +1,4 @@
 # My vim settings
-Run **:PlugInstall** to install the plugins.
+## Commands
+**:PlugInstall** - install the plugins <br/>
+**:NERDTreeToggle** - show/hide the directory tree
