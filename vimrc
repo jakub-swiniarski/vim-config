@@ -78,3 +78,11 @@ set shiftwidth=4
 set expandtab
 
 set number
+
+call plug#begin('~/.vim/plugged')
+  
+Plug 'https://github.com/preservim/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'LunarWatcher/auto-pairs'
+Plug 'maxboisvert/vim-simple-complete'  
+
+call plug#end()
