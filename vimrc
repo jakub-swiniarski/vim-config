@@ -26,8 +26,11 @@ set expandtab
 
 set number
 
+set nocompatible
+
 call plug#begin('~/.vim/plugged')
-  
+
+Plug 'sheerun/vim-polyglot'
 Plug 'https://github.com/preservim/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'LunarWatcher/auto-pairs'
 Plug 'maxboisvert/vim-simple-complete'  
