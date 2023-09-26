@@ -1,4 +1,4 @@
-# My Vim/Neovim config
+# My Vim config
 ## Commands
 **:PlugInstall** - install plug plugins <br/>
 
