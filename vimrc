@@ -23,4 +23,3 @@ inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm()
 \: "\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
 
 let g:airline_theme='deus'
-let g:airline_powerline_fonts = 1
