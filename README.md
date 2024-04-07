@@ -1,6 +1,6 @@
 # My Vim config
 ## Dependencies
-- Node.js
+- nodejs
 ## Commands
 ### Install plug plugins
 ```shell
