@@ -14,7 +14,7 @@
 :CocInstall coc-clangd
 ```
 ## Disable function argument names
-Use this command:
+Use this command to open the config:
 ```shell
 :CocConfig
 ```
