@@ -1,4 +1,6 @@
 # My Vim config
+## Dependencies
+- Node.js
 ## Commands
 ### Install plug plugins
 ```shell
@@ -13,7 +15,7 @@
 :CocInstall extension
 :CocInstall coc-clangd
 ```
-## Disable function argument names
+## Disable coc function argument names
 Use this command to open the config:
 ```shell
 :CocConfig
