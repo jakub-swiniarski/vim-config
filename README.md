@@ -13,3 +13,14 @@
 :CocInstall extension
 :CocInstall coc-clangd
 ```
+## Disable function argument names
+Use this command:
+```shell
+:CocConfig
+```
+Paste this into the config:
+```json
+{
+    "inlayHint.enable": false
+}
+```
